@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/CGI-JSTools.t
+lib/CGI/JSTools.pm
